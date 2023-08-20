@@ -148,7 +148,7 @@ function AddToCart() {
   );
 }
 
-//  Summa formatini to'g'irlovchi funksiya
+//Summa formatini to'g'irlovchi funksiya
 function formatSum(qiymat) {
   let value;
   if (typeof qiymat === "string") {
